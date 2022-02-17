@@ -3,7 +3,7 @@
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 File Sharing Khusus 18+ [Click Di Sini](
-https://github.com/restuap17/FileSharing-Pekob)
+https://github.com/Jakatingkir100/FileSharing-Pekob)
 ##
 
 **Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@InfoBotShr](https://www.telegram.dog/Sharin)**
@@ -66,7 +66,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/restuap17/FileSharing-Restu/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
+* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/Jakatingkir100/FileSharing-Restu/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
 
 ### Fillings
@@ -98,7 +98,7 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana.
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/restuap17/FileSharing-Restu) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/Jakatingkir100/FileSharing-Restu) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundationither version 3 of the License, or
